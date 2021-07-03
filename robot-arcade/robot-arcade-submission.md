@@ -21,7 +21,7 @@ For access, all you need is a [Twitch](https://www.twitch.tv/) account and a [NY
 
 ## End of 2021  
 * Extension visuals and graphics
-* [Bismuth](https://bismuthplatform.com/) integration <3>
+* [Bismuth](https://bismuthplatform.com/) integration
 * 2+ player gaming
 * Battle-type game
 * Live chat / memes scrolling on arena background
