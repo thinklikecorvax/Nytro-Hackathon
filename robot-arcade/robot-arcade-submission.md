@@ -1,4 +1,4 @@
-# Robot Arcade (name tbd)
+# Robot Arcade
 Cybernetic twitch gaming! Teleop robots in a real miniature arena, participate in games and win stuff!  
 For access, all you need is a [Twitch](https://www.twitch.tv/) account and a [NYZO](https://github.com/n-y-z-o) wallet. 
 
