@@ -13,7 +13,7 @@ For access, all you need is a [Twitch](https://www.twitch.tv/) account and a [NY
 # Goals
 ## Hackathon
 * Protoype using all the main components
-* Carinval-type demo game
+* Carnival-type demo game
 * Release twitch extension
 * Open source code and documentation
 * Award for the highest scorer during the demo game trial
